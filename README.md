@@ -47,7 +47,23 @@ The objective is to understand:
 
 
 \---
+**Dashboard Features:-**
 
+\-Total Titles
+
+\-Total Movies
+
+\-Total TV Shows
+
+\-Movies vs TV Shows
+
+\-Top 10 Genres
+
+\-Content Released Over Years
+
+\-Top 10 Countries
+
+\-Interactive Filters
 
 
 **## Dataset**
